@@ -59,3 +59,21 @@ ul li a{
     font-size: smaller;
     margin-left: 50px;
 }
+.para1{
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+.spara1{
+    color: rgb(177, 165, 165);
+    font-size: smaller;
+    margin-left: 50px;  
+    margin-top: 8px; 
+}
+.img1 .small{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    margin-left: 11px;
+    margin-top: 12px;
+}
